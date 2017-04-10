@@ -1,35 +1,25 @@
 {
-  "name": "workflow-sass",
+  "name": "atividade-sass",
   "version": "1.0.0",
-  "description": "workflow de aula para iniciar os trabalhos com sass",
+  "description": "Baixe o reposítório, logo apenas instale os plugins do node.",
   "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-notify": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "sass",
-    "curso",
-    "certificação",
-    "bootstrap"
-  ],
-  "author": "Marcel Dusek",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MarcelDusek/atividade-sass/issues"
-  },
-  "homepage": "https://github.com/MarcelDusek/atividade-sass#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-notify": "^2.2.0",
-    "gulp-sass": "^3.0.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MarcelDusek/atividade-sass.git"
   },
-  "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-notify": "^2.2.0",
-    "gulp-sass": "^3.1.0"
-  }
+  "author": "Marcel Dusek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcelDusek/atividade-sass/issues"
+  },
+  "homepage": "https://github.com/MarcelDusek/atividade-sass#readme"
 }
