@@ -1,14 +1,8 @@
 {
   "name": "atividade-sass",
   "version": "1.0.0",
-  "description": "Baixe o reposítório, logo apenas instale os plugins do node.",
+  "description": "Atividade modulo sass",
   "main": "gulpfile.js",
-  "dependencies": {
-    "gulp-notify": "^3.0.0",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
